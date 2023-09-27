@@ -1,3 +1,5 @@
+# Clustering(隠れマルコフモデル)
+
 import tensorflow_probability as tfp #regression と classificationと違うモジュール
 import tensorflow as tf
 
